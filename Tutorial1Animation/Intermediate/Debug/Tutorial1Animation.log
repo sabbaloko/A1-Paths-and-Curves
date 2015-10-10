@@ -1,0 +1,10 @@
+﻿Build started 10/9/2015 8:48:19 PM.
+     1>Project "C:\Users\100506828\Desktop\A1 Paths and Curves\A1 Paths and Curves\Tutorial1Animation\Tutorial1Animation.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (C:\Users\100506828\Desktop\A1 Paths and Curves\A1 Paths and Curves\Tutorial1Animation\Intermediate\Debug\) contains files shared from another project (Tutorial4Animation.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Tutorial1Animation.vcxproj -> C:\Users\100506828\Desktop\A1 Paths and Curves\A1 Paths and Curves\bin\Debug\Points and Curves.exe
+     1>Done Building Project "C:\Users\100506828\Desktop\A1 Paths and Curves\A1 Paths and Curves\Tutorial1Animation\Tutorial1Animation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46
